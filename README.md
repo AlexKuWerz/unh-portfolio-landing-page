@@ -16,12 +16,12 @@ HTML, CSS.
 
 * **Desktop View** - At size 992px and above:
 
-<img src="./res/desktop-preview.png" alt="Desktop view" style="max-width: 1440px;"/>
+<img src="./res/desktop-preview.jpg" alt="Desktop view" style="max-width: 1440px;"/>
 
 * **Tablet View** - At size 768px and above:
 
-<img src="./res/tablet-preview.png" alt="Tablet view" style="max-width: 768px;"/>
+<img src="./res/tablet-preview.jpg" alt="Tablet view" style="max-width: 768px;"/>
 
 * **Mobile View** - At size less than 768px:
 
-<img src="./res/mobile-preview.png" alt="Mobile view" style="max-width: 375px;"/>
+<img src="./res/mobile-preview.jpg" alt="Mobile view" style="max-width: 375px;"/>
