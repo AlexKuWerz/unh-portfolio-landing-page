@@ -1,8 +1,8 @@
-# Portfolio Landing Page Example
+# Portfolio Landing Page
 
 **Author: _Oleksandr Kulyk_**
 
-**Preview link** - https://alexkuwerz.github.io/unh-portfolio-landing-page/src/index
+**Preview link** - https://alexkuwerz.github.io/unh-portfolio-landing-page/
 
 ## Description
 
